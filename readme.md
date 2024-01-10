@@ -1,6 +1,6 @@
 # Dockerize Javascript Application
 
 ### Docker Build
-``` sh
+```bash
 docker build -t hello-docker-js .
 ```
